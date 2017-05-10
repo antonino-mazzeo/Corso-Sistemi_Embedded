@@ -92,4 +92,3 @@ Design will use development methods and IDE environments that are widely used in
 10. Manuals and data sheets of the various components utilized in the Course lab.
 
 
-<link to programma_corso_sistemi_embedded.pdf>
