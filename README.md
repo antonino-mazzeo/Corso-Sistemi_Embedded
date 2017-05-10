@@ -69,7 +69,7 @@ Design will use development methods and IDE environments that are widely used in
 
 • middleware and S.O. Even with real-time requirements
 
-## Textbooks
+## Textbooks used in the course
 
 1. G. Conte, A. Mazzeo, N. Mazzocca, P. Prince, "Computer Architecture", Cittastudi editions, 2015
 
@@ -89,7 +89,7 @@ Design will use development methods and IDE environments that are widely used in
 
 9. J. Sauermann, M. Thelen, "Realtime Operating Systems Concepts and Implementation of Microcontrollers for Embedded Systems",
 
-10. Manuals and data sheets of the various devices used and provided by the course.
+10. Manuals and data sheets of the various components utilized in the Course lab.
 
 
 <link to programma_corso_sistemi_embedded.pdf>
